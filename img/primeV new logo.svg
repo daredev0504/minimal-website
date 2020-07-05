@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.44 419.76" style="enable-background:new 0 0 595.44 419.76;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#4D4D4D;}
+	.st3{fill:#237D26;}
+	.st4{fill:none;}
+	.st5{font-family:'Asap-Regular';}
+	.st6{font-size:19px;}
+	.st7{fill:#666666;}
+	.st8{fill:#41AA54;}
+	.st9{fill:#12491D;}
+	.st10{fill:#E5E5E5;}
+	.st11{fill:#F2F2F2;}
+	.st12{stroke:#000000;stroke-miterlimit:10;}
+	.st13{opacity:0.35;fill:#FFFFFF;}
+	.st14{opacity:0.25;fill:#FFFFFF;}
+	.st15{font-family:'Asap-Bold';}
+	.st16{font-size:28px;}
+	.st17{display:inline;fill:none;stroke:#41AA54;stroke-width:2;stroke-miterlimit:10;}
+	.st18{display:inline;fill:none;stroke:#12491D;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="big_triang">
+</g>
+<g id="small_triang" class="st0">
+	<g id="small_triangles" class="st1">
+		<polygon class="st2" points="355.18,188.39 347.85,188.39 351.52,182.06 354.4,187.05 		"/>
+		<polygon class="st3" points="365.48,188.39 353.62,188.39 354.4,187.05 359.55,178.15 364.71,187.05 		"/>
+		<polygon class="st2" points="371.26,188.39 363.93,188.39 364.71,187.05 367.6,182.06 		"/>
+		<polyline class="st4" points="371.26,188.39 365.48,188.39 363.93,188.39 355.18,188.39 353.62,188.39 347.85,188.39 		"/>
+	</g>
+</g>
+<g id="black_rect_1_">
+</g>
+<g id="grey_rect_1_">
+</g>
+<g id="coding_icon_1_">
+</g>
+<g id="theme_icon_1_">
+</g>
+<g id="prime" class="st0">
+	<text transform="matrix(1 0 0 1 347.0361 205.4921)" class="st1 st5 st6">Prime </text>
+</g>
+<g id="stand_1_">
+	<g>
+		<g id="top_triangles">
+			<polygon class="st2" points="283.86,166.86 260.15,166.86 272.01,146.37 281.34,162.5 			"/>
+			<polygon class="st3" points="317.17,166.86 278.82,166.86 281.34,162.5 297.99,133.73 314.66,162.52 			"/>
+			<polygon class="st2" points="335.86,166.86 312.15,166.86 314.66,162.52 324.01,146.37 			"/>
+		</g>
+		<path id="black_rect" d="M294.72,166.14H221.1c-8.11,0-14.69,6.58-14.69,14.69v57.16c0,8.11,6.58,14.69,14.69,14.69h73.62V166.14z
+			"/>
+		<path id="grey_rect" class="st7" d="M374.34,166.14h-73.62v86.54h73.62c8.11,0,14.69-6.58,14.69-14.69v-57.16
+			C389.03,172.71,382.45,166.14,374.34,166.14z"/>
+		<g id="coding_icon">
+			<path class="st8" d="M236.93,195.29v0.81c0,1.93-1.09,3.7-2.82,4.56l-19.63,9.83v0.12l-4.14-1.64L236.93,195.29z"/>
+			<path class="st9" d="M236.93,225.43v0.41l-26.65-13.73V209l0.06-0.02l4.14,1.64l19.28,9.67
+				C235.7,221.26,236.93,223.25,236.93,225.43z"/>
+			<polygon class="st8" points="260.59,186.49 244.52,228.14 242.72,228.14 258.63,186.49 			"/>
+			<polygon class="st9" points="258.63,186.49 242.72,228.14 240.66,228.14 256.69,186.49 			"/>
+			<path class="st9" d="M290.85,208.96v3.21l-26.65,13.67l0,0c0-2.42,1.37-4.64,3.54-5.72l19.09-9.5l3.98-1.68h0.02L290.85,208.96z"
+				/>
+			<path class="st8" d="M286.84,210.61v-0.12l-19.49-9.69c-1.92-0.96-3.14-2.92-3.14-5.07v-0.45l26.61,13.65L286.84,210.61z"/>
+		</g>
+		<g id="theme_icon">
+			<path class="st9" d="M370.27,207.31c0,16.67-13.51,30.18-30.19,30.18c-11.87,0-22.14-6.86-27.05-16.83
+				c4.22,6.78,11.31,11.89,19.97,13.51c16.02,2.99,31.34-7.07,34.22-22.49c2.88-15.41-7.77-30.33-23.79-33.32
+				c-3.65-0.68-7.26-0.69-10.7-0.11c-0.05-0.07-0.09-0.13-0.14-0.19c2.39-0.61,4.9-0.94,7.49-0.94
+				C356.76,177.13,370.27,190.64,370.27,207.31z"/>
+			<path class="st8" d="M367.22,211.69c-2.88,15.41-18.2,25.48-34.22,22.49c-8.65-1.62-15.74-6.73-19.97-13.51
+				c-1.02-2.04-1.8-4.2-2.33-6.47c1.21,0.2,2.45,0.31,3.71,0.31c12.57,0,22.76-10.18,22.76-22.75c0-5.05-1.65-9.72-4.44-13.49
+				c3.44-0.58,7.05-0.57,10.7,0.11C359.46,181.35,370.1,196.28,367.22,211.69z"/>
+			<circle class="st10" cx="340.09" cy="208.98" r="4.22"/>
+			<circle class="st11" cx="347.68" cy="217.87" r="1.69"/>
+		</g>
+		<g id="stand">
+			<path class="st12" d="M315.11,286.03h-34.2c4.13-5.8,7.41-15.9,9.14-28.31h15.91C307.69,270.12,310.97,280.23,315.11,286.03z"/>
+			<path class="st13" d="M290.22,258.89c1.37,6.32,3.3,8.63-1.01,17.14c-3.09,6.12-5.68,9.72-4.58,8.62s9.13-13.04,8.79-15.49
+				C292.82,264.83,290.22,258.89,290.22,258.89z"/>
+			<path class="st14" d="M305.27,273.05c0,3.3-1.2,8.23,3.59,10.43c4.32,1.99,6.59,2.76,4.48,1.75c-2.11-1.01-5.17-3.79-6.23-4.86
+				C305.74,279.01,305.27,273.05,305.27,273.05z"/>
+		</g>
+	</g>
+</g>
+<g id="visual" class="st0">
+	<text transform="matrix(1 0 0 1 347.0361 237.2826)" class="st1 st15 st16">VISUALS</text>
+</g>
+<g id="short_line_1_" class="st0">
+	<line id="long_line" class="st17" x1="348.22" y1="209.27" x2="382.97" y2="209.27"/>
+</g>
+<g id="long_line_1_" class="st0">
+	<line id="short_line" class="st18" x1="382.97" y1="242.47" x2="449.21" y2="242.47"/>
+</g>
+</svg>
