@@ -6,63 +6,16 @@
 html,body{
     font-family: roboto;
 }
-.header{
-    margin-top: 10px;
-    display: flex;
-    justify-content: space-around;
+img{
+    width: 300px;
+    height: 200px;
 }
-.header h3{
-    font-family: 'Courier New', Courier, monospace;
-    color:rgb(10, 110, 40);
-    font-size: 1.5em;
+.navbar-brand{
+    font-family:monospace;
+    font-weight: bolder;
+    font-size: 2em;
 }
-span{
-    color:rgb(26, 134, 206);
-}
-.get-started button{
-    margin: 0 5px;
-    padding: .5em;
-    border: none;
-    background-color:rgb(6, 37, 58);
-    color: white;
-    border-radius: 5px;
-}
-.navlinks{
-    justify-content:space-around;
-    display: flex;
-}
-.navlinks a{
-    font-weight: 300;
-    color:rgb(10, 110, 40);
+.nav-link{
     margin: 0 20px;
-    text-decoration: none;
-}
-.hero-section{
-    margin-top: 10px;
-    height: 50vh;
-    background: white;
-}
-
-.hero-details{
-    margin-top: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background: white; 
-}
-.hero-details h1{
-    font-size: 4em;
-    color:rgb(26, 134, 206);
-}
-.hero-details p{
-    margin-bottom: 50px;
-    color:rgb(6, 37, 58);
-}
-.hero-details button{
-    padding: 1em;
-    border: none;
-    background-color:rgb(6, 37, 58);
-    color: white;
-    border-radius: 5px;
+  
 }

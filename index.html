@@ -7,39 +7,91 @@
     <meta name="keywords" content="web, small, minimal">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Min Web</title>
+    <link rel="stylesheet" href="css\bootstrap.min.css">
     <link rel="stylesheet" href="css\website.css">
     <link rel="stylesheet" href="css\all.css">
 </head>
 <body>
     <header>
-        <div class="header">
-            <h3>fizz<span class="buzz">Buzz</span></h3>
-            <nav class="navlinks">
-                <a href="">Home</a>
-                <a href="">About us</a>
-                <a href="">Contact us</a>
-            </nav>
-            <div class="get-started">
-                <button>log in</button>
-                <button>register</button>
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a href="#" class="navbar-brand ml-3"><span style='color:rgb(6, 158, 120)'>Fizz</span><span style='color:rgb(13, 145, 189)'>Buzz</span></a>
+                <button class="navbar-toggler" type='button'
+                data-toggle='collapse' data-target='#navMenu' aria-controls="navMenu"
+                arial-expanded='false' aria-label="Toggle Navigation">
+                <span class="fas fa-bars"></span>
+            </button>
+            <div class="collapse navbar-collapse"></div>
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="nav navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Contact Us</a>
+                    </li>
+                </ul>
+                <button class="btn btn-primary">Log in</button>
+                <button class="btn btn-link">Register</button>
             </div>
-        </div>
+            </nav>
     </header>
     <main>
-        <section class="hero-section">
-         <div class="hero-details">
-            <h1>What is FIZZBUZZ</h1>
-            <p>fizzbuzz is a platform that allows a user to have access 
-                to personalized 
-            </p>
-            <button>Start Buzzing</button>
+        <section class="container-fluid hero-section">
+         <div class="site-content hero-details">
+             <div class="d-flex justify-content-center">
+                 <div class="d-flex flex-column">
+                     <div class="site-content">
+                        <h1 class="site-title text-primary">What is FIZZBUZZ?</h1>
+                        <p>fizzbuzz is a platform that allows a user to have access 
+                            to personalized news.
+                        </p> 
+                        <div class="d-flex flex-row">
+                           <input class='btn site-btn1 btn-dark' type="button" value="Start Buzzing">
+                           <input class='btn site-btn2 btn-light' type="button" value="Know Features">
+                        </div>      
+                 </div>
+                 </div>
+             </div>
          </div>
         </section>
         <section class="services">
+            <div class="sport">
+                <img src="img\Tennis-300x197.jpg" alt="">
+                <h3>read exclusive news on lifestyle</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing
+                     elit.Necessitatibus voluptatum inventore, 
+                     at eos et tempore 
+                     quod. 
+                    </p>
+            </div>
+            <div class="fashion">
+                <img src="img\photo-1506917629166-2a1e0e2c78aa.jpeg" alt="">
+                <h3>read exclusive news on lifestyle</h3>
+                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing
+                     elit.Necessitatibus voluptatum inventore, 
+                     at eos et tempore 
+                     quod.
+                     </p>
+            </div>
+            <div class="lifestyle">
+                <img src="img\1573109125385335053_1059123455.jpg" alt="">
+                <h3>read exclusive news on lifestyle</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing
+                    elit.Necessitatibus voluptatum inventore, 
+                    at eos et tempore 
+                    quod.
+                 </p>
+            </div>
         </section>
     </main>
     <footer></footer>
+    <script src="js\jquery-3.5.1.slim.min.js"></script>
+    <script src="js\bootstrap.bundle.min.js"></script>
 <script src="js\main.js"></script>
 <script src="js\all.js"></script>
+<script src=""></script>
 </body>
 </html>
