@@ -117,3 +117,27 @@ div.site-content{
 .section-5{
     margin-top: 5%;
 }
+
+
+
+
+
+@media screen and (max-width:768px) {
+    .section-3 h1{
+        font-size: 2em;
+    }
+    .para-1{
+        margin-left:9em;
+    }
+}
+
+
+@media screen and (max-width:380px) {
+    .site-title{
+        font-size: 3em;
+        margin-left: 1em;
+    }
+    .para-1{
+        margin-left: 5em;
+    }
+}
