@@ -10,6 +10,7 @@ img{
     width: 300px;
     height: 200px;
 }
+
 .navbar-brand{
     font-family:monospace;
     font-weight: bolder;
@@ -155,24 +156,29 @@ div.site-content{
 }
 .contact-title h1{
     color: white;
+    font-weight: bolder;
     text-transform: capitalize;
     margin:20% 0 0 2%;
     
     font-size: 3em;
 }
 .contact-title p{
-    color: rgb(190, 187, 187);
-    font-size: 1.5em;
+    color: rgb(230, 227, 227);
+    font-size: 1.2em;
     margin:2% 0 15% 2%;
 }
 .contact-details input{
-    margin-bottom: 8%;
+    margin-bottom: 4%;
     width: 80%;
     padding: 2%;
 }
 .contact-details .submit{
-    width: 30%;
+    width: 25%;
 }
 .contact-form{
     margin-top: 10%;
+}
+.submit-btn{
+    background: rgb(6, 158, 120);
+    border: none;
 }

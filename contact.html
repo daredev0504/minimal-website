@@ -49,8 +49,10 @@
                     <div class="col-md-6">
                         <div class="d-flex flex-column justify-content-center contact-title"
                         style = 'background: url("1 (2).jpg");'>
-                            <h1>do you have a complaint, suggestion or a report ?</h1>
-                            <p>kindly reach out to us</p>
+                            <h1>get in touch</h1>
+                            <p>get in touch with us if you have any issues
+                                our support staff will get back to you as soon as possible.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -58,9 +60,11 @@
                             <h4 class="contact-prompt">fill the form</h4>
                             <div class="contact-details">
                                 <form action="">
-                                    <input type="text" placeholder="name" size="30">
-                                   <input type="email" placeholder="email">
-                                   <input class="btn btn-primary submit" type="submit" 
+                                    <input  id="inputkey" type="text" placeholder="name" size="30">
+                                   <input id="emailkey" type="email" placeholder="email">
+                                   <input id="subjectkey" type="text" placeholder="subject">
+                                   <textarea id='message' name="" id="" cols="40" rows="5" placeholder="write your message"></textarea>
+                                   <input id="submit" class="btn btn-primary submit submit-btn" type="submit" 
                                    value="Submit" placeholder="email">
                                     </form>
                             </div>
@@ -73,8 +77,26 @@
             </div>
             
     </main>
+    <footer>
+        <div class="section-5 text-center">
+            <h1>get daily personalized news here on fizzBuzz</h1>
+        </div>
+
+        <div class="social">
+            <div class="d-flex flex-row justify-content-center">
+                <i class="fab fa-facebook m-4"></i>
+                <i class="fab fa-twitter m-4"></i>
+                <i class="fab fa-github m-4"></i>
+                <i class="fab fa-instagram m-4"></i>
+            </div>
+
+            <hr>
+            <h5 class="text-center">&copy;fizzBuzz</h5>
+        </div>
+    </footer>
     <script src="js\jquery-3.5.1.slim.min.js"></script>
     <script src="js\bootstrap.bundle.min.js"></script>
     <script src="js\all.js"></script>
+    <script src="js\main.js"></script>
 </body>
 </html>
