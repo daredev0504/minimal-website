@@ -141,3 +141,38 @@ div.site-content{
         margin-left: 5em;
     }
 }
+
+
+
+
+
+
+
+/*contact styles*/
+
+.contact-title{
+    margin-top: 10%;
+}
+.contact-title h1{
+    color: white;
+    text-transform: capitalize;
+    margin:20% 0 0 2%;
+    
+    font-size: 3em;
+}
+.contact-title p{
+    color: rgb(190, 187, 187);
+    font-size: 1.5em;
+    margin:2% 0 15% 2%;
+}
+.contact-details input{
+    margin-bottom: 8%;
+    width: 80%;
+    padding: 2%;
+}
+.contact-details .submit{
+    width: 30%;
+}
+.contact-form{
+    margin-top: 10%;
+}
